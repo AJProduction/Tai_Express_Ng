@@ -1,0 +1,23 @@
+{
+  "name": "version_2",
+  "version": "1.0.0",
+  "description": "TAI Express Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJProduction/Tai_Express_Ng.git"
+  },
+  "author": "Anjola Adeuyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJProduction/Tai_Express_Ng/issues"
+  },
+  "homepage": "https://AJProduction.github.io/Tai_Express_Ng",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
